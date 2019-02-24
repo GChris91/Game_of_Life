@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1487139920 source:c:\users\lgillot\gillot ludovic\progra avancée\tp1\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1487138401 source:c:\users\lgillot\gillot ludovic\progra avancée\tp1\jeu de la vie\procédures.c
+	<stdio.h>
+	<stdlib.h>
+
+1487140110 c:\users\lgillot\gillot ludovic\progra avancée\tp1\jeu de la vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1487141440 source:c:\users\lgillot\gillot ludovic\progra avancée\tp1\jeu de la vie\monde.c
+	"monde.h"
+
+1487141440 source:f:\chris\desktop\jeu de la vie\monde.c
+	"monde.h"
+
+1487140110 f:\chris\desktop\jeu de la vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1487455350 source:f:\chris\desktop\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1487742164 source:e:\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1487140110 e:\jeu de la vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1487743817 source:e:\jeu de la vie\monde.c
+	"monde.h"
+
+1488276965 source:f:\chris\desktop\jeu de la vie\current\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1488093091 f:\chris\desktop\jeu de la vie\current\jeu de la vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1488276765 source:f:\chris\desktop\jeu de la vie\current\jeu de la vie\monde.c
+	"monde.h"
+
+1488345391 source:f:\rest\jdlv\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1488277208 f:\rest\jdlv\jeu de la vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1488346873 source:f:\rest\jdlv\jeu de la vie\monde.c
+	"monde.h"
+
+1488345391 source:f:\rest\jdlv\jeu_de_la_vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"monde.h"
+
+1488277208 f:\rest\jdlv\jeu_de_la_vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+
+1488350731 source:f:\rest\jdlv\jeu_de_la_vie\monde.c
+	"monde.h"
+
+1488674900 source:k:\rest\jdlv\jeu_de_la_vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"monde.h"
+
+1488445357 k:\rest\jdlv\jeu_de_la_vie\monde.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1488445586 source:k:\rest\jdlv\jeu_de_la_vie\monde.c
+	"monde.h"
+
